@@ -8,10 +8,10 @@
     "dev:web": "vite dev",
     "dev:ts": "tsc -b -w",
     "dev:convex": "npx convex dev",
-    "build": "vite build"
+    "build": "vite build",
     "start": "node .output/server/index.mjs",
     "format": "prettier --write .",
-    "lint": "tsc && eslint .  --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
+    "lint": "tsc && eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
   },
   "dependencies": {
     "@auth/core": "0.37.4",
