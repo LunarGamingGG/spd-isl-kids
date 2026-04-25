@@ -4,5 +4,4 @@
   "framework": "vite",
   "env": {
     "VITE_CONVEX_URL": "https://qualified-bird-426.convex.cloud"
-  }
 }
