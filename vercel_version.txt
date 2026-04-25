@@ -1,0 +1,1 @@
+bash: vercel: command not found
