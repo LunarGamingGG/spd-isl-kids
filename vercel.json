@@ -1,9 +1,9 @@
 {
-  "outputDirectory": "dist/client",
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "/index.html"
+      "destination": "https://3210-i8yi6md2mk59ehkts9mgz.app.cto.new",
+      "permanent": false
     }
   ]
 }
