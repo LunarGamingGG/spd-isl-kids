@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://3210-i8yi6md2mk59ehkts9mgz.app.cto.new",
+      "destination": "https://3000-i8yi6md2mk59ehkts9mgz.app.cto.new/",
       "permanent": false
     }
   ]
